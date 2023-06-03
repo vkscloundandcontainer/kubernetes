@@ -2,7 +2,7 @@
 This article guide you to install kubernetes in Ubuntu VM
 
 ## Docker Installation
-Click [HERE](./docker%20install.md) to go for docker installation
+Click [HERE](./docker-install.md) to go for docker installation
 
 ## Disable swap
 ```
