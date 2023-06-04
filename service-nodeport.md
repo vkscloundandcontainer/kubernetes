@@ -67,4 +67,4 @@ saran@kube-master-1:~/yaml-files$
 http://192.168.56.11:30080/
 ```
 You should get output as below.
-![nodeport-service](./media/nginx-nodeport-url-browse.png)
+![node-port-servic](./media/nginx-nodeport-url-browse.png)
